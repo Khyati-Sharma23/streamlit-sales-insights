@@ -31,6 +31,7 @@ This app is deployed on Streamlit Cloud:
 
 - **Live demo URL:** https://app-sales-insights-n8eshvf4l3g78wufsvgkeg.streamlit.app/
 - **GitHub repo:** https://github.com/Khyati-Sharma23/streamlit-sales-insights
+- **Working of the project:** https://drive.google.com/file/d/14uirby3ApI31iTQlV8UUbYwrso9Y3z6q/view?usp=sharing
 
 
 
